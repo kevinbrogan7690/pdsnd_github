@@ -15,6 +15,8 @@ new_york_city.csv
 washington.csv
 chicago.csv
 
+Please note that the 3 .csv files listed here data sources and have been logged in the gitignore file in this repo. 
+
 ### Credits
 Thank you to Udacity for walking me through all of this. 
 
